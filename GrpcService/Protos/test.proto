@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService.Protos";
+
+package test;
+
+service Test{
+	rpc GetInfo (InfoReply) returns (InfoReply);
+	rpc InsertInfo (InfoReply) returns (InfoReply);
+	rpc DeleteInfo(InfoReply) returns (InfoReply);
+	rpc ChangeInfo(InfoReply) returns (InfoReply);
+}
+
+message InfoReply {
+	int32 id = 1;
+  int32 age = 2;
+  string name = 3;
+}

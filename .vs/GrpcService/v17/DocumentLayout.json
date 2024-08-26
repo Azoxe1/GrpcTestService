@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Azoxe\\source\\repos\\GrpcService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Azoxe\\AppData\\Local\\Temp\\.vsdbgsrc\\d174300ffe2417dda60b311e62d84601264b0d7cf5cf09603b6d1881c8ee9e3b\\Dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C18117-2D57-45F7-8DF8-96906643C205}|WpfApp\\WpfApp.csproj|c:\\users\\azoxe\\source\\repos\\grpcservice\\wpfapp\\viewmodel\\addmodelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C18117-2D57-45F7-8DF8-96906643C205}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\viewmodel\\addmodelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C18117-2D57-45F7-8DF8-96906643C205}|WpfApp\\WpfApp.csproj|c:\\users\\azoxe\\source\\repos\\grpcservice\\wpfapp\\commands\\forreactivecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C18117-2D57-45F7-8DF8-96906643C205}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\commands\\forreactivecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Azoxe\\AppData\\Local\\Temp\\.vsdbgsrc\\d174300ffe2417dda60b311e62d84601264b0d7cf5cf09603b6d1881c8ee9e3b\\Dispatcher.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d174300ffe2417dda60b311e62d84601264b0d7cf5cf09603b6d1881c8ee9e3b\\Dispatcher.cs",
+              "ToolTip": "C:\\Users\\Azoxe\\AppData\\Local\\Temp\\.vsdbgsrc\\d174300ffe2417dda60b311e62d84601264b0d7cf5cf09603b6d1881c8ee9e3b\\Dispatcher.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d174300ffe2417dda60b311e62d84601264b0d7cf5cf09603b6d1881c8ee9e3b\\Dispatcher.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAKsBAAAAAAAAAAArwMMBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:09:44.609Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForReactiveCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Azoxe\\source\\repos\\GrpcService\\WpfApp\\Commands\\ForReactiveCommands.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Commands\\ForReactiveCommands.cs",
+              "ToolTip": "C:\\Users\\Azoxe\\source\\repos\\GrpcService\\WpfApp\\Commands\\ForReactiveCommands.cs",
+              "RelativeToolTip": "WpfApp\\Commands\\ForReactiveCommands.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:14:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddModelViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Azoxe\\source\\repos\\GrpcService\\WpfApp\\ViewModel\\AddModelViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp\\ViewModel\\AddModelViewModel.cs",
+              "ToolTip": "C:\\Users\\Azoxe\\source\\repos\\GrpcService\\WpfApp\\ViewModel\\AddModelViewModel.cs",
+              "RelativeToolTip": "WpfApp\\ViewModel\\AddModelViewModel.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:05:00.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
